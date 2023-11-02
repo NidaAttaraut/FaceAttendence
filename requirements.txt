@@ -1,0 +1,9 @@
+pandas
+numpy
+opencv_python
+cmake
+dlib
+face_recognition
+gspread
+oauth2client
+pickle-mixim
